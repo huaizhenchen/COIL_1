@@ -1,0 +1,11 @@
+2024-09-06 00:26:54,492 INFO Epoch 1: Validation - Average Loss: 0.03029584, Average SNR: -0.1444
+2024-09-06 00:26:56,520 INFO Epoch 2: Validation - Average Loss: 0.03137268, Average SNR: -0.2525
+2024-09-06 00:26:58,568 INFO Epoch 3: Validation - Average Loss: 0.03205867, Average SNR: -0.2751
+2024-09-06 00:27:00,607 INFO Epoch 4: Validation - Average Loss: 0.03204092, Average SNR: -0.2236
+2024-09-06 00:27:02,622 INFO Epoch 5: Validation - Average Loss: 0.03239306, Average SNR: -0.2156
+2024-09-06 00:27:04,791 INFO Epoch 6: Validation - Average Loss: 0.03159331, Average SNR: -0.1361
+2024-09-06 00:27:06,840 INFO Epoch 7: Validation - Average Loss: 0.03294006, Average SNR: -0.3115
+2024-09-06 00:27:08,884 INFO Epoch 8: Validation - Average Loss: 0.03189814, Average SNR: -0.1427
+2024-09-06 00:27:10,896 INFO Epoch 9: Validation - Average Loss: 0.03254028, Average SNR: -0.2740
+2024-09-06 00:27:12,906 INFO Epoch 10: Validation - Average Loss: 0.03312590, Average SNR: -0.2678
+2024-09-06 00:27:15,084 INFO Epoch 11: Validation - Average Loss: 0.03359024, Average SNR: -0.3157

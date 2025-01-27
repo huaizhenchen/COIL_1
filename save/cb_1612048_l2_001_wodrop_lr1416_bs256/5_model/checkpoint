@@ -1,0 +1,2 @@
+model_checkpoint_path: "/projectnb/cislbu/huaizhen/TRY2/COIL/save/cb_1612048_l2_001_wodrop_lr1416_bs256/5_model/model"
+all_model_checkpoint_paths: "/projectnb/cislbu/huaizhen/TRY2/COIL/save/cb_1612048_l2_001_wodrop_lr1416_bs256/5_model/model"
